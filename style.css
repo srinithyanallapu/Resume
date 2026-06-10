@@ -1,0 +1,21 @@
+*{
+    background-color: rgb(248, 235, 212);
+}
+h1{
+    font-size: 40px;
+    color: #333;
+    margin-bottom: 10px;
+    background-color: gainsboro;
+    text-align: center;
+}
+.details{
+    font-size: 15px;
+    color: rgb(140, 140, 222);
+    text-align: center;
+    background-color: antiquewhite;
+}
+.headers{
+    font-size: 20px;
+    color: rgb(120, 120, 245);
+    background-color:rgb(228, 212, 243)
+}
